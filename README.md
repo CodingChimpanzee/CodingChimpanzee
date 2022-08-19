@@ -4,7 +4,7 @@
 I can do ape-oriented programming. Which means my workstyle is similar to brute-force!
 
 ## About Me
-* Name: Sunghyun Kang
+* Name: Sunghyun (Michael) Kang or 강성현
 * E-mail: kanghyun51015@gm.gist.ac.kr
 * GitHub: https://github.com/CodingChimpanzee
 * Location: Seoul, Republic of Korea
