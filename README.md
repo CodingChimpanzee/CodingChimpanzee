@@ -9,9 +9,6 @@ I can do ape-oriented programming. Which means my workstyle is similar to brute-
 * GitHub: https://github.com/CodingChimpanzee
 * Location: Seoul, Republic of Korea
 
-## Tech Stacks
-* <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
-
 ## Research Interest
 * Brain Stimulation
 * Brain-Computer Interface (BCI)
