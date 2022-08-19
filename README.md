@@ -8,7 +8,7 @@ I can do ape-oriented programming. Which means my workstyle is similar to brute-
 * E-mail: kanghyun51015@gm.gist.ac.kr
 * GitHub: https://github.com/CodingChimpanzee
 * Location: Seoul, Republic of Korea
-* Here's my [C.V.](.github/workflows/CV.tex)
+* Here's my [C.V.](CV.tex)
 
 ## Research Interest
 * Brain Stimulation
