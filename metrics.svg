@@ -12,6 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: user/metrics@latest
+      - uses: CodingChimpanzee/metrics@latest
         with:
-          token: ${{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}}
+          token: ${{ secrets.METRICS_TOKEN }}
