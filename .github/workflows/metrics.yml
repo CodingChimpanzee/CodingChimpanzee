@@ -26,6 +26,5 @@ jobs:
       - uses: dante-ev/latex-action@v0.2.0
         with:
           root_file: CV.tex
-          working_directory: ..
           args: -pdf -latexoption=-file-line-error -latexoption=-interaction=nonstopmode
           
