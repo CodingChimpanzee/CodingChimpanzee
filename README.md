@@ -4,4 +4,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingChimpanzee&theme=dark)
 
-![Metrics](https://github.com/CodingChimpanzee/CodingChimpanzee/github-metrics.svg)
+![Metrics](/github-metrics.svg)
