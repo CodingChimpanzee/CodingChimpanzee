@@ -26,4 +26,5 @@ jobs:
       - uses: xu-cheng/latex-action@v2
         with:
           root_file: CV.tex
+          working_directory: ..
           
