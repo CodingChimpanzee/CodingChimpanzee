@@ -1,4 +1,4 @@
-# CodingChimpanzee
+# 🙌
 ![Orangutan GIF](/Orangutan.gif)  
 
 I can do ape-oriented programming. Which means my workstyle is similar to brute-force!
@@ -25,7 +25,7 @@ I can do ape-oriented programming. Which means my workstyle is similar to brute-
 * 2021\. 05 ~ Current: Biocomputing Lab at GIST, Korea
 * 2022\. 06 ~ 2022\. 08: AI Researcher Internship at CloudStone. Inc. Korea
 
-## Publications:
+## Publications
 * **S. H. Kang**, J. Y. Choi, and S. C. Jun, "Effects of PPC tDCS on vigilance task and alpha power tendency", IBEC 2021, Nov. 2021.
 
 ## Word is cheap, show me the code
