@@ -1,7 +1,4 @@
 # 🙌
-![Orangutan GIF](/Orangutan.gif)  
-
-I can do ape-oriented programming. Which means my workstyle is similar to brute-force!
 
 ## About Me
 * Name: Sunghyun (Michael) Kang or 강성현
@@ -33,3 +30,8 @@ I can do ape-oriented programming. Which means my workstyle is similar to brute-
 ![Chimpanzee's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingChimpanzee&count_private=true&show_icons=true&theme=dark)
 
 ![Metrics](/github-metrics.svg)
+
+## Workflow
+![Orangutan GIF](/Orangutan.gif)  
+
+I can do ape-oriented programming. Which means my workstyle is similar to brute-force!
