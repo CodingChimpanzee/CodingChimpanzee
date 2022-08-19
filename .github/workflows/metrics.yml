@@ -19,3 +19,7 @@ jobs:
           # Isometric commit calendar
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          
+          # Language Plugin
+          plugin_languages: yes
+          
