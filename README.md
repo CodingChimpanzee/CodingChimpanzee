@@ -1,4 +1,4 @@
-# 🙌
+# 🙌 Good morning, Good afternoon and Good night!
 
 ## About Me
 * Name: Sunghyun (Michael) Kang or 강성현
