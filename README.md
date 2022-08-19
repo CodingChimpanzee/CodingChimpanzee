@@ -1,13 +1,16 @@
 # CodingChimpanzee
 ![Orangutan GIF](/Orangutan.gif)  
 
-Can do ape-oriented programming. Which means my workstyle is similar to brute-force!
+I can do ape-oriented programming. Which means my workstyle is similar to brute-force!
 
 ## About Me
 * Name: Sunghyun Kang
 * E-mail: kanghyun51015@gm.gist.ac.kr
 * GitHub: https://github.com/CodingChimpanzee
 * Location: Seoul, Republic of Korea
+
+## Tech Stacks
+* <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 ## Research Interest
 * Brain Stimulation
