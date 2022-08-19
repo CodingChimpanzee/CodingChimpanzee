@@ -22,4 +22,8 @@ jobs:
           
           # Language Plugin
           plugin_languages: yes
+              
+      - uses: xu-cheng/latex-action@v2
+        with:
+          root_file: CV.tex
           
