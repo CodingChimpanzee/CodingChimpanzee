@@ -16,8 +16,10 @@ Can do ape-oriented programming. Which means my workstyle is similar to brute-fo
 * Other topics related to the AI (Vehicle Routing Problem, etc.,)
 
 ## Education
-* 2017\. 03 ~ Current: B.E. Student of Electrical Engineering and Computer Science, GIST, Korea
-* 2022\. 01 ~ 2022\. 05: BGA, Exchange Student of Electrical Engineering and Computer Science, UC Berkeley, US
+* 2017\. 03 ~ Current: Undergraduate, GIST, Korea
+  + Majoring in Electrical Engineering and Computer Science
+  + Minoring in Mathematics
+* 2022\. 01 ~ 2022\. 05: BGA, Exchange Student of Electrical Engineering and Computer Science, UC Berkeley, U.S.
 
 ## Career
 * 2021\. 05 ~ Current: Biocomputing Lab at GIST, Korea
