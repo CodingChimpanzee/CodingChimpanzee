@@ -1,5 +1,6 @@
 # CodingChimpanzee
-![Orangutan GIF](/Orangutan.gif)
+![Orangutan GIF](/Orangutan.gif)  
+
 Can do ape-oriented programming. Which means my workstyle is similar to brute-force!
 
 ## About Me
