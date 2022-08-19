@@ -25,5 +25,5 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: xu-cheng/latex-action@v2
         with:
-          root_file: CV.tex
+          root_file: ../CV.tex
           
