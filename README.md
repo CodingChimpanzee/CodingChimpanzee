@@ -31,7 +31,7 @@
 
 ![Metrics](/github-metrics.svg)
 
-## Workflow
+## CodingChimpanzee?
 ![Orangutan GIF](/Orangutan.gif)  
 
-I can do ape-oriented programming. Which means my workstyle is similar to brute-force!
+In the first place, I wanted to be CodingOrangutan, but its already taken so I choose to be myself as CodingChimpanzee!
