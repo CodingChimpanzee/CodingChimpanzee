@@ -5,7 +5,7 @@
 * E-mail: kanghyun51015@gm.gist.ac.kr
 * GitHub: https://github.com/CodingChimpanzee
 * Location: Seoul, Republic of Korea
-* Here's my [C.V.](CV_kang.pdf)
+* Here's my [C.V.](CV_KANG.pdf)
 
 ## Research Interest
 * Brain Stimulation
