@@ -22,6 +22,7 @@
 ## Career
 * 2021\. 05 ~ Current: Biocomputing Lab at GIST, Korea
 * 2022\. 06 ~ 2022\. 08: AI Researcher Internship at CloudStone. Inc. Korea
+* 2019\. 03 ~ 2021\. 01: Republic of Korea Air Force, discharged as reserved sergeant.
 
 ## Publications
 * **S. H. Kang**, J. Y. Choi, and S. C. Jun, "Effects of PPC tDCS on vigilance task and alpha power tendency", IBEC 2021, Nov. 2021.
