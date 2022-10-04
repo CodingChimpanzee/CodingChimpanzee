@@ -21,6 +21,7 @@
 
 ## Career
 * 2021\. 05 ~ Current: Biocomputing Lab at GIST, Korea
+* 2022 Fall Semester: Introduction to Algorithm (EC 2206) Head TA 
 * 2022\. 06 ~ 2022\. 08: AI Researcher Internship at CloudStone. Inc. Korea
 * 2019\. 03 ~ 2021\. 01: Republic of Korea Air Force, PATRIOT Missile Operator (reserved sergeant)
 
