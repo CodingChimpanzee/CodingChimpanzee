@@ -21,6 +21,7 @@
 
 ## Career
 * 2021\. 05 ~ Current: Biocomputing Lab at GIST, Korea
+* 2023\. 03 ~ Current: Software Engineering and Project TA
 * 2022\. 09 ~ 2022\. 12: Introduction to Algorithm (EC 2206) Head TA 
 * 2022\. 06 ~ 2022\. 08: AI Researcher Internship at CloudStone. Inc. Korea
 * 2019\. 03 ~ 2021\. 01: Republic of Korea Air Force, PATRIOT Missile Operator (reserved sergeant)
@@ -37,4 +38,4 @@
 ## CodingChimpanzee?
 ![Orangutan GIF](/Orangutan.gif)  
 
-In the first place, I wanted to be CodingOrangutan, but its already taken so I choose to be myself as CodingChimpanzee!
+https://en.wikipedia.org/wiki/Infinite_monkey_theorem
