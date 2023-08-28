@@ -5,7 +5,7 @@
 * E-mail: kanghyun51015@gm.gist.ac.kr
 * GitHub: https://github.com/CodingChimpanzee
 * Location: Seoul, Republic of Korea
-* Personal Homepage: ![link](https://www.notion.so/Sunghyun-Kang-2184635360a44773accf08e87b4457c2)
+* Personal Homepage: ![link](https://metal-match-842.notion.site/Sunghyun-Kang-2184635360a44773accf08e87b4457c2)
 
 ## Word is cheap, show me the code
 ![Chimpanzee's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingChimpanzee&count_private=true&show_icons=true&theme=dark)
