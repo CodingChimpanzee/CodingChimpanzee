@@ -1,7 +1,7 @@
 # 🙌 🙌 🙌 
 
 ## About Me
-* Name: Sunghyun (Michael) Kang or 강성현
+* Name: Sunghyun Kang or 강성현
 * E-mail: kanghyun51015@gm.gist.ac.kr
 * GitHub: https://github.com/CodingChimpanzee
 * Location: Seoul, Republic of Korea
