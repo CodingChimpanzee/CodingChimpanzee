@@ -2,9 +2,9 @@
 
 ## About Me
 * Name: Sunghyun Kang or 강성현
-* E-mail: kanghyun51015@gm.gist.ac.kr
+* E-mail: sungk12@uci.edu
 * GitHub: https://github.com/CodingChimpanzee
-* Location: Seoul, Republic of Korea
+* Location: Irvine, CA, USA
 * Personal Homepage: https://metal-match-842.notion.site/Sunghyun-Kang-2184635360a44773accf08e87b4457c2
 
 ## Word is cheap, show me the code
